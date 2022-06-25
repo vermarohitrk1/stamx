@@ -1,0 +1,103 @@
+.main-class {
+
+}
+.\#svg-fill {
+	background-image: linear-gradient(90deg, rgba(122, 52, 52, 0.2) 38%, rgba(255, 255, 255, 0.29) 83%);
+}
+.logos{
+	display: inline-block;
+	width: 100%;
+	margin-bottom: 28px;
+	padding: 20px;
+}
+.top-logo {
+	float: right;
+	width: 50%;
+	display: inline-block;
+	text-align: right;
+}
+.top-logo img {
+	width: 200px;
+	max-width: 250px;
+}
+.logo {
+	float: left;
+	width: 50%;
+	display: inline-block;
+}
+.logo img {
+	width: auto;
+	max-width: 250px;
+	max-height: 75px;
+}
+.content {
+	padding:43px 0 0 20px;
+}
+.content h1 {
+	color: #fff;
+	font-size: 35px;
+}
+.content p {
+	color: #fff;
+	font-size: 22px;
+	font-weight: 500;
+	padding-top: 20px;
+}
+.content h1 span {
+	font-weight: bold;
+}
+.right-form {
+	background: #fff;
+	padding: 30px 20px;
+	width: 81%;
+	float: right;
+	margin-bottom: 70px;
+}
+.right-form ul {
+	list-style: none;
+	padding-left: 10px;
+}
+.label label {
+	color: #000;
+	font-size: 16px;
+	padding-top: 12px;
+	font-weight: 600;
+}
+.form-input input {
+	width: 100%;
+	padding: 5px;
+}
+.form-p{
+	font-size: 12px;
+	font-weight: 600px;
+}
+.butn {
+	background: rgb(70, 92, 169);
+	color: #fff;
+	width: 100%;
+	padding: 10px;
+	margin-top: 20px;
+	font-size:20px;
+}
+.butn a {
+	text-decoration: none;
+	color: #fff !important;
+}
+.butn a i {
+	font-size: 20px;
+}
+.footer {
+	background-color: #333;
+	color: #fff;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	float: left;
+	width: 100%;
+}
+.footer-class {
+	text-align: center;
+}
+.footer-class p {
+	font-size: 10px;
+	margin-bottom: 0;
+}

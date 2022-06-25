@@ -1,0 +1,2 @@
+[05-Jul-2021 23:58:47 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL), expecting ')' in /home/stemx/public_html/vendor/composer/InstalledVersions.php on line 35
+[05-Jul-2021 23:59:57 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL), expecting ')' in /home/stemx/public_html/vendor/composer/InstalledVersions.php on line 35
