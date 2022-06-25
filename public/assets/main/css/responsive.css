@@ -1,0 +1,239 @@
+@media only screen and (max-width:1200px){
+	.navbar-nav li{
+ 	padding:0rem .3rem;
+}
+.mainlogo{
+  	margin-right:2rem;
+} 
+.loginbtn{
+	margin-left:1rem;
+}
+.circles-section{
+	width:100%;
+	height: 320px;
+}
+.forcenter{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	height:35rem;
+}
+
+}
+@media only screen and (max-width: 992px){
+html{
+	font-size: 55.5%;
+	}
+	.main-hero{
+		height: auto;
+		padding-bottom: 0rem!important;
+	}
+	.navbar{
+	height: auto;
+	background: var(--peacock);
+	margin-top:0rem;
+	padding-top:1.5rem;
+	padding-bottom:1.5rem;
+	}
+	.collapse{
+		background:var(--peacock);
+	}
+	.menu-links{
+		text-align: center;
+		padding-top:2rem;
+	}
+	.navbar-nav li a{
+ 	font-size:1.8rem;
+ 	color:white;
+ 	line-height:3rem;
+ 	border-bottom:.1rem solid #2c2d2f;
+ 	text-transform: uppercase;
+}
+.top-btns{
+	width:50%;
+	margin-bottom:1rem;
+	margin-left: 0rem;
+}
+.dropdown-menu a{
+ 	color:var(--darkblack)!important;
+ 	text-align: center;
+ 	line-height:3rem;
+}
+
+
+.heroo-sect{
+	max-width:960px;
+	margin:0 auto;
+
+}
+.hero-right{
+	background: none;
+}
+.hero-heading{
+	margin-top:10rem;
+	text-align: center;
+}
+.hero-left-content{
+	width:80%;
+	margin:0 auto;
+	z-index: 999;
+
+}
+.hero-p{
+	text-align: center;
+}
+.mb3{
+	margin-bottom:3rem;
+}
+.hero-right{
+	height:auto;
+	background:none;
+	
+}
+.circles-section{
+	width:100%;
+	height: auto;
+	background: var(--darkblack)!important;
+}
+
+.firstone{
+	max-width: 400px;
+	display: block;
+	margin:0 auto;
+	background:url(../images/firstone.png);
+	background-repeat: no-repeat;
+	height: 450px;
+	padding-top:125px;
+}
+.secondone{
+	max-width: 400px;
+	display: block;
+	margin:0 auto;
+	background:url(../images/secondone.png);
+	background-repeat: no-repeat;
+	height: 450px;
+	padding-top:125px;
+	margin-top:-60px;
+}
+.thirdone{
+	max-width: 400px;
+	display: block;
+	margin:0 auto;
+	background:url(../images/thirdone.png);
+	background-repeat: no-repeat;
+	height: 450px;
+	padding-top:125px;
+	margin-top:-60px;
+	padding-left:0rem!important;
+}
+.popular-mentors{
+	margin-top:0rem;
+}
+.forgrid{
+	display: grid;
+	grid-template-columns:1fr 1fr 1fr;
+}
+@media only screen and (max-width: 768px){
+html{
+	font-size: 45.5%;
+	}
+	.top-btns{
+	width:80%;
+	margin-bottom:1rem;
+	margin-left: 0rem;
+}
+.search-box{
+	height:auto;
+	padding:1.5rem!important;
+}
+.searchicon{
+	width: 100%;
+}
+.hero-heading{
+	font-size:4rem;
+	margin-top:12rem;
+	line-height: 5rem;
+
+}
+.hero-left-content{
+	width:100%;
+}
+.logos-col{
+	margin-top:0rem;
+	margin-bottom:2rem;
+}
+
+
+.firstone{
+	max-width: 250px;
+	height: 280px;
+	margin:0 auto;
+	padding-top:70px;
+	background: url(../images/fristonemobile.png);
+}
+.secondone{
+	max-width: 250px;
+	height: 280px;
+	margin:0 auto;
+	padding-top:70px;
+	background: url(../images/secondonemoible.png);
+	margin-top:-25px;
+}
+.thirdone{
+	max-width: 250px;
+	height: 250px;
+	margin:0 auto;
+	padding-top:70px;
+	background: url(../images/thirdonemobile.png);
+	margin-top:-20px;
+}
+.blogandnews{
+	padding-bottom:4rem;
+}
+
+.slick-slide img{
+	display: block;
+	margin:0 auto;
+	width:100%;
+}
+.forgrid{
+	display: grid;
+	grid-template-columns:1fr 1fr;
+}
+
+.forformm form input{
+	height:6.4rem;
+	line-height: 6.4rem!important;
+	padding-top:0rem!important;
+	}
+.subscribtnn{
+	background: var(--orange);
+	color:white;
+	font-size:2rem;
+	height:5.4rem;
+	line-height: 5rem;
+	width:14rem;
+	margin-top:.5rem;	
+}
+.forformm form input::placeholder{
+	font-size:1.6rem;
+	padding-top: 0rem;
+	line-height:6.4rem;
+}
+.thisinpugrou{
+	padding:0rem!important;
+	padding-left:1rem!important;
+}
+.blogcard{
+	max-width: 350px;
+	height: auto;
+	display: block;
+	margin:0 auto;
+}
+}
+@media only screen and (max-width: 576px){
+.forgrid{
+	display: grid;
+	grid-template-columns:1fr;
+}
+}
